@@ -1,1 +1,1 @@
-
+Expand-Archive -Path "Hase-unblocker.github.io.zip" -DestinationPath "."
